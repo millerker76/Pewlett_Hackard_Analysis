@@ -1,6 +1,5 @@
 # Pewlett_Hackard_Analysis
 Pewlett_Hackard retirement analysis
-## Pyber Analysis
 
 
 ## Overview
@@ -12,7 +11,7 @@ Pewlett_Hackard retirement analysis
   There are many baby-boomer age employees who will be retiring in a large wave at Pewlett-Hackard, similarly to other organizations throughout the country, 
   and the company needs to know how many employees per job title are eligible to retire.   
 
-* In addition, there's a need for newer and younger employees to gain the knowledge and experience of the retirement eligible staff, management has requested that this   identify employees who are eligible for mentorship opportunities.
+* In addition, there's a need for newer and younger employees to gain the knowledge and experience of the retirement-eligible staff, management has requested that this   analysis identify employees who are eligible for mentorship opportunities.
 
 ### Data Description
 
