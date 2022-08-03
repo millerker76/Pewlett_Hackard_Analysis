@@ -44,9 +44,9 @@ Multiple csv files containing employee data were provided and loaded into tables
 
 ## Summary
 
-* This analysis has delivered a list of retirement-eligible employees and a list of mentorship-eligible employees as well as tables showing the count of each per job title.  
+* This analysis has delivered a list of retirement-eligible employees and a list of mentorship-eligible employees as well as tables showing the count of each per job title.   An additional deliverable, the mentorship_titles table was produced to show the count of mentorship-eligible employees per job title.
 
-* In addition, the analysis has shown that nearly a third of current employees are eligible to retire and a wave of hiring will be needed to replace them.
+* In addition, the analysis has shown that nearly a third of current employees are eligible to retire and a wave of hiring will be needed to replace them.   An additional table, the all_current_emps table was produced to help provide insight into number of all current employees in proportion to retirement eligible employees.
 
 * Although there is a huge population of retirement-eligible employees who can mentor existing newer employees, as they retire, P-H risks losing a lot of 
-  organizational knowledge and skill that takes years to develop.
+  organizational knowledge and skill that takes years to develop.   
