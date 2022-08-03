@@ -17,7 +17,7 @@ Pewlett_Hackard retirement analysis
 ### Data Description
 
 Multiple csv files containing employee data were provided and loaded into tables.   Additional tables were created for the analysis.   
-
+![database tables](https://user-images.githubusercontent.com/107505166/182724536-e56a26cc-25fb-4729-a2bf-52c00ea192b7.PNG)
 
 
 ## Deliverables
@@ -25,12 +25,15 @@ Multiple csv files containing employee data were provided and loaded into tables
     retirement_titles.csv  - this csv file lists all the employees who are currently eligible for retirement and their current job title.
     retiring_tites.csv     - this csv file shows the count of retirement eligible employees by job title.
     % of employees retiring -  this graphic shows the percentage of current P-H employees who are eligible to retire.
-    
+    ![Pie chart](https://user-images.githubusercontent.com/107505166/182726701-0a6283f9-2b7e-476b-86cf-8e01e673022a.png)
+
+      
     We can see that nearly a third of the current workforce are eligible to retire and that many, many positions will need to be filled.  It will be important to 
     consider providing incentives to retirement-eligible employees to remain with the company a little longer in order to mentor the new employees
  
  2. Mentorship analysis:
-    mentorship_eligibility.csv
+    mentorship_eligibility.csv - this csv file lists all the employees who are eligible for a mentorship program at P-H.
+    
 
 ### Ride and Fare Data Table 
 
