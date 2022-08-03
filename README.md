@@ -41,28 +41,12 @@ Multiple csv files containing employee data were provided and loaded into tables
  * mentorship_titles.csv - this csv file shows the count per job title of employees who are eligible for mentorship
     
 
-### Ride and Fare Data Table 
-
-Ride and fare data were summarized to allow a comparison of total number of rides, total number of drivers and total fare amounts by city type, as well as the average fare per ride and average fare per driver by city type.
-
-Figure 1.   Summary table of ride and fare data by city type
-![Pyber summary table](https://user-images.githubusercontent.com/107505166/179433404-0912eb4a-cae9-4fe7-b54f-e53ee9d2c057.PNG)
-* In the summary data table, we see that Pyber ride activity, number of drivers and fare totals in the sample data are largest in urban cities and smallest in rural cities with suburban cities falling in the middle.   These data points appear to vary proportionally with city size.  This would be expected as transportation activities in a population are generally dependent on population size. 
-* However, average fare amount per ride and average fare amount per driver appear to vary inversely with city size.  We may guess that residents in rural areas may need to travel longer distances to reach their desired destinations, and thus the total fare amounts for rural trips are higher, but we can't base that conclusion on the data provided for analysis.
-
-### Total Fare Comparison Chart
-
-A line chart was provided to show total weekly Pyber fare amounts per city type over a 4-month period.
-
-Figure 2.   Weekly Pyber ride fare totals by city type
-![Total Fare by City Type chart](https://user-images.githubusercontent.com/107505166/179433433-4c3e9cc6-8a95-42e3-acc1-099c1285af10.png)
-* The chart graphically displays the expected proportionality of total fare amounts to city size.
 
 ## Summary
 
-### Recommendations  
-* Clearly defined goals will be helpful in making use of this analysis of weekly total Pyber fare amounts by city type.
-* Disparities in total fare amounts by city type have been demonstrated, but would be expected given the relationship of transportation activity to population size.  
-* Disparities in average fare amount per ride and average fare amount per driver could be due to length of trip, but need to be analyzed further. 
-* The data set provided is hampered by the data points that aren't included.   Helpful data points to include would be Pyber driver ID, and trip length.  These data points could help inform statistics such as the average fare amount per driver and the average fare amount per ride with more meaningful explanations.   
+* This analysis has delivered a list of retirement-eligible employees and a list of mentorship-eligible employees as well as tables showing the count of each per job title.  
 
+* In addition, the analysis has shown that nearly a third of current employees are eligible to retire and a wave of hiring will be needed to replace them.
+
+* Although there is a huge population of retirement-eligible employees who can mentor existing newer employees, as they retire, P-H risks losing a lot of 
+  organizational knowledge and skill that takes years to develop.
