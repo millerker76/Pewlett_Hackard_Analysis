@@ -26,7 +26,7 @@ Multiple csv files containing employee data were provided and loaded into tables
     
  * retiring_tites.csv     - this csv file shows the count of retirement eligible employees by job title.
     
- * % of employees retiring -  this graphic below shows the percentage of current P-H employees who are eligible to retire.
+ * % of employees retiring -  the chart below shows the percentage of current P-H employees who are eligible to retire.
     
    ![Pie chart](https://user-images.githubusercontent.com/107505166/182726701-0a6283f9-2b7e-476b-86cf-8e01e673022a.png)
 
